@@ -3,7 +3,7 @@ def earth():
     y = "Barbados"
 
     if x < y:
-        print (f"The result of {x} come first in the dictionary than {y} is {True}")
+        print (f"The result of {x} comes first in the dictionary than {y} is {True}")
     if x < y:
-        print (f"The result of {y} come first in the dictionary than {x} is {False}")
+        print (f"The result of {y} comes first in the dictionary than {x} is {False}")
 
