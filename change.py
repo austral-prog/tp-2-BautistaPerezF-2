@@ -7,7 +7,7 @@ def change ():
      resultado_centavo = int(centavos*100)
      print (f"Ingresar gasto:")
      print (expense)
-     print (f"Dinero recibido:")
+     print (f"Dinero recibido")
      print (money)
      print (" ")
      print ("Vuelto")
