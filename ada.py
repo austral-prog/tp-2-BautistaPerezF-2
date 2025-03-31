@@ -9,5 +9,5 @@ def ada():
     print (primero)
     print (segundo)
     print (ultimo)
-    print ("        " + primero)
+    print (/t primero)
     
